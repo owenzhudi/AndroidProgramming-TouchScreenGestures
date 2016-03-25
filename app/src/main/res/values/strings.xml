@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Touchscreen Gestures</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id">Pointer ID: &#160;</string>
+    <string name="x_coordinate">&#160; Current X coordinate: &#160;</string>
+    <string name="y_coordinate">&#160; Current Y coordinate: &#160;</string>
+    <string name="gesture">Gesture</string>
+    <string name="title_activity_gesture">GestureActivity</string>
+    <string name="return_btn">Return</string>
+    <string name="clear">Clear</string>
+</resources>
